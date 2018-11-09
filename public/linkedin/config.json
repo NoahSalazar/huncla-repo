@@ -1,0 +1,24 @@
+{
+	"menu" : {
+		"icon"  : "fa fa-linkedin",
+		"color" : "#0d77b7",
+		"link"  : "title link",
+		"title" : "Linkedin"
+	},
+
+	"submenu" : {
+		"linkedin/post" : "Post"
+	},
+
+	"account" : {
+		"add_account" : "linkedin/block_list_account"
+	},
+
+	"js" : {
+		"linkedin" : "linkedin/assets/js/linkedin.js"
+	},
+
+	"css" : {
+		"linkedin" : "linkedin/assets/css/linkedin.css"
+	}
+}

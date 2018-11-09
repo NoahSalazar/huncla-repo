@@ -1,0 +1,24 @@
+{
+	"menu" : {
+		"icon"  : "fa fa-twitter",
+		"color" : "#00aced",
+		"link"  : "title link",
+		"title" : "Twitter"
+	},
+
+	"submenu" : {
+		"twitter/post" : "Post"
+	},
+
+	"account" : {
+		"add_account" : "twitter/block_list_account"
+	},
+
+	"js" : {
+		"twitter" : "twitter/assets/js/twitter.js"
+	},
+
+	"css" : {
+		"twitter" : "twitter/assets/css/twitter.css"
+	}
+}

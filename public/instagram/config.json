@@ -1,0 +1,24 @@
+{
+	"menu" : {
+		"icon"  : "fa fa-instagram",
+		"color" : "#d62976",
+		"link"  : "title link",
+		"title" : "Instagram"
+	},
+
+	"submenu" : {
+		"instagram/post" : "Post"
+	},
+
+	"account" : {
+		"add_account" : "instagram/block_list_account"
+	},
+
+	"js" : {
+		"instagram" : "instagram/assets/js/instagram.js"
+	},
+
+	"css" : {
+		"instagram" : "instagram/assets/css/instagram.css"
+	}
+}
